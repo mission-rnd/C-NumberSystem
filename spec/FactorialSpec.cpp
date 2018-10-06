@@ -57,23 +57,21 @@ namespace spec
 
 
 		[TestMethod, Timeout(3000)]
-		void Sum_Test1()
+		void Factorial_Test1()
 		{
-			int a = 2;
-			int b = 5;
-			int actual = sum(a, b);
-			int expected = 5;
-			Assert::AreEqual(expected, actual, L"Sum testcase 1 failed", 1, 2);
+			int x=5;
+			int actual = factorial(x);
+			int expected = 120;
+			Assert::AreEqual(expected, actual, L"Factorial testcase 1 failed", 1, 2);
 		}
 
 		[TestMethod, Timeout(3000)]
-		void Sum_Test2()
+		void Factorial_Test2()
 		{
-			int a = -2;
-			int b = 5;
-			int actual = sum(a, b);
-			int expected = 3;
-			Assert::AreEqual(expected, actual, L"Sum testcase 2 failed", 1, 2);
+			int x=6
+			int actual = factorial(x);
+			int expected = 720;
+			Assert::AreEqual(expected, actual, L"Factorial testcase 2 failed", 1, 2);
 		}
 	};
 }

@@ -11,7 +11,7 @@ ERROR CASES:
 NOTES:
 */
 
-int sum(int a, int b)
+int factorial(int x)
 {
 	return 0;
 }

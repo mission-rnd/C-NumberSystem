@@ -21,8 +21,8 @@ int main(){
 
 	//Test Sum of numbers
 
-	int sumTemp = sum(4, 3);
-	printf("%d\n", sumTemp);
+	int fact=factorial(5)
+	printf("%d\n", fact);
 
 	//Test swap
 	int a = 5;

@@ -1,2 +1,2 @@
-int sum(int a,int b);
+int factorial(int x);
 void swap(int *a, int *b);
