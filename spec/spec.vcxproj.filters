@@ -21,10 +21,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SumSpec.cpp">
+    <ClCompile Include="SwapSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SwapSpec.cpp">
+    <ClCompile Include="MidPointSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
