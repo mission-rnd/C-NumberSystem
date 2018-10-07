@@ -32,13 +32,13 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sum.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Swap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MainNumberSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MidPoint.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -14,21 +14,13 @@ Points to Follow for the whole C course :
 */
 #include "stdafx.h"
 #include <stdlib.h>
-
+#include<iostream>
+using namespace std;
 #include "FunctionHeaders.h"
 
 int main(){
-
-	//Test Sum of numbers
-
-	int fact=factorial(5)
-	printf("%d\n", fact);
-
-	//Test swap
-	int a = 5;
-	int b = 9;
-	swap(&a, &b);
-	printf("Final values of a=%d, b=%d \n", a, b);
-	
+	//do test your code here...
+	int a=4, b=6;
+	printf("%d", midPoint(a, b));
 	return 0;
 }

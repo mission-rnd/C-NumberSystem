@@ -84,7 +84,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sum.cpp" />
+    <ClCompile Include="MidPoint.cpp" />
     <ClCompile Include="MainNumberSystem.cpp" />
     <ClCompile Include="Swap.cpp" />
     <ClCompile Include="stdafx.cpp">
