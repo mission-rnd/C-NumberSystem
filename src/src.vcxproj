@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AverageofN.cpp" />
+    <ClCompile Include="ButterflyNumber.cpp" />
     <ClCompile Include="MidPoint.cpp" />
     <ClCompile Include="MainNumberSystem.cpp" />
     <ClCompile Include="Swap.cpp" />
