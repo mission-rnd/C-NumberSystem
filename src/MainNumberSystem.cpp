@@ -14,8 +14,6 @@ Points to Follow for the whole C course :
 */
 #include "stdafx.h"
 #include <stdlib.h>
-#include<iostream>
-using namespace std;
 #include "FunctionHeaders.h"
 
 int main(){

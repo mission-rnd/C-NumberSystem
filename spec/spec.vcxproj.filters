@@ -27,6 +27,9 @@
     <ClCompile Include="MidPointSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AverageOfNSpec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
