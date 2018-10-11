@@ -6,7 +6,6 @@ using namespace System::Text;
 using namespace System::Collections::Generic;
 using namespace Microsoft::VisualStudio::TestTools::UnitTesting;
 
-#define NULL 0
 
 
 namespace spec

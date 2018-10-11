@@ -10,12 +10,5 @@ for invalid cases return -1
 
 int averageOfN(int* arr, int N)
 {
-	if (arr==NULL)
-		return -1;
-	long long ans = 0;
-	for (int i = 0; i < N; i++)
-	{
-		ans += arr[i];
-	}
-	return ans / N;
+	return 0;
 }
