@@ -83,6 +83,7 @@
   <ItemGroup>
     <ClCompile Include="AssemblyInfo.cpp" />
     <ClCompile Include="AverageOfNSpec.cpp" />
+    <ClCompile Include="BigFibonacciSpec.cpp" />
     <ClCompile Include="ButterflyNumberSpec.cpp" />
     <ClCompile Include="MidPointSpec.cpp" />
     <ClCompile Include="SwapSpec.cpp" />

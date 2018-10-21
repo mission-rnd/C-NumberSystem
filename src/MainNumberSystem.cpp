@@ -12,13 +12,20 @@ Points to Follow for the whole C course :
 ->Do not only depend on the questions given in the Project Tracker Tool .
 
 */
+
+#include<iostream>
 #include "stdafx.h"
 #include <stdlib.h>
 #include "FunctionHeaders.h"
+using namespace std;
 
 int main(){
-	//do test your code here...
-	int a=4, b=6;
-	printf("%d", midPoint(a, b));
+	int temp;
+	cout << bigFibonacci(1) << endl;
+	cout << bigFibonacci(2) << endl;
+	cout << bigFibonacci(3) << endl;
+	cout << bigFibonacci(4) << endl;
+	cout << bigFibonacci(5) << endl;
+	cin >> temp;
 	return 0;
 }
